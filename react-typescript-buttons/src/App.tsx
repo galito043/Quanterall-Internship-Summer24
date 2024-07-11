@@ -1,4 +1,4 @@
-import { MouseEventHandler, useState } from "react";
+import { useState } from "react";
 import "./App.css";
 interface ButtonProps {
   count: number;
